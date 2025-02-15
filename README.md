@@ -11,5 +11,5 @@
 
 <div align="center">
 <h3 align="center">I have experience working with these technologies...</h3>
-<img src='https://skillicons.dev/icons?i=nodejs,actix,rust,c,aws,docker,linux,bash,js,postgres,vim,tauri,react,vite&theme=dark'/>
+<img src='https://skillicons.dev/icons?i=rust,c++,c,bash,aws,gcp,docker,linux,postgres,vim&theme=dark'/>
 </div>
