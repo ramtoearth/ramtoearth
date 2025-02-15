@@ -1,7 +1,7 @@
 <div>
   <h1>Welcome to my profile!</h1>
   <p align="center">I am a passionate dev always open to learn and contribute to open source projects.</p>
-  <p align="center">Cloud enthusiast | AWS | GCP | Software Development | Rust | C++ | Interested in Systems Programming | Interested in Emebeded Systems Programming </p>
+  <p align="center">Cloud enthusiast | AWS | GCP | Software Development | Rust | C++ | Interested in Systems Programming | Interested in Embedded Systems Programming </p>
 </div>
 
 <div align="center">
