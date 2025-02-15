@@ -10,6 +10,6 @@
 </div>
 
 <div align="center">
-<h3 align="center">I have experience working with these technologies...</h3>
-<img src='https://skillicons.dev/icons?i=rust,c++,c,bash,aws,gcp,docker,linux,postgres,vim&theme=dark'/>
+<h3 align="center">My tech stack</h3>
+<img src='https://skillicons.dev/icons?i=rust,cpp,c,bash,aws,gcp,docker,linux,postgres,vim&theme=dark'/>
 </div>
