@@ -7,6 +7,10 @@
 </div>
 
 <div align="center">
+  <p>Get to know me: <a href="https://ramsesmata.com">ramsesmata.com</a></p>
+</div>
+
+<div align="center">
   <img width=50% height=100% align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMaths&hide_progress=true&theme=synthwave&hide_border=true&border_radius=0"/>
   <img width=50% height=100% align=top src="https://github-readme-streak-stats.herokuapp.com/?user=RamMaths&theme=synthwave&bg_color=00000000&hide_border=true"/>
 </div>
