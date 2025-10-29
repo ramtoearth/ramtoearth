@@ -3,7 +3,7 @@
     <h1>Welcome to my profile!</h1>
   </div>
   <p align="center">Learning is my passion. I am always ready to contribute to open source projects.</p>
-  <p align="center">Cloud Enthusiast | Data, AI and ML Enthusiast | AWS | GCP | Software Development | Go | Rust | C++ | Learning Systems Programming | Learning Embedded Systems Programming | Learning Kernel Programming</p>
+  <p align="center">Cloud Enthusiast | Data, AI and ML Enthusiast | AWS | GCP | Software Development | Python | Rust | Go | C++ | Learning Systems Programming | Learning Embedded Systems Programming | Learning Kernel Programming</p>
 </div>
 
 <div align="center">
@@ -16,5 +16,5 @@
 
 <div align="center">
 <h3 align="center">My tech stack</h3>
-<img src='https://skillicons.dev/icons?i=rust,c,cpp,go,ts,python,bash,angular,django,aws,gcp,docker,k8s,terraform,linux,postgres,vim,git&theme=dark'/>
+<img src='https://skillicons.dev/icons?i=rust,python,cpp,go,ts,bash,angular,django,aws,gcp,docker,k8s,terraform,linux,postgres,vim,git&theme=dark'/>
 </div>
