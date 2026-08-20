@@ -18,5 +18,5 @@
 
 <div align="center">
 <h3 align="center">My tech stack</h3>
-<img src='https://skillicons.dev/icons?i=rust,python,cpp,go,ts,bash,angular,django,aws,gcp,docker,terraform,linux,postgres,git&theme=dark'/>
+<img src='https://skillicons.dev/icons?i=rust,python,c,bash,aws,linux,postgres,git&theme=dark'/>
 </div>
