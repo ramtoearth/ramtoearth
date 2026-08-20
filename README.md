@@ -3,7 +3,7 @@
     <h1>Welcome to my profile!</h1>
   </div>
   <p align="center">Learning is my passion. I am always ready to contribute to open source projects.</p>
-  <p align="center">Cloud Enthusiast | Data, AI and ML Enthusiast | AWS | GCP | Software Development | Rust | Python | Go | C++ | Learning Systems Programming | Learning Embedded Systems Programming | Learning Kernel Programming</p>
+  <p align="center">Cloud Enthusiast | Data, AI and ML Enthusiast | AWS | Rust | Python | C | Learning Systems Programming | Learning Embedded Systems Programming | Learning Kernel Programming</p>
 </div>
 
 <div align="center">
